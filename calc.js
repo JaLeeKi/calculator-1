@@ -32,7 +32,7 @@ reader.question("What would you like to calculate?", function(input){
 		console.log(num1 / num2 / num3);
 	}
 
-	if (mathSymbol === "sqrt"){
+	if (mathSymbol === "&"){
 		console.log(Math.sqrt(num1));
 	}
 
